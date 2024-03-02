@@ -1,0 +1,2 @@
+El pipeline que contiene el modelo utiliza el modulo OutlierReplace.py, por lo tanto para su correcta ejecucion es 
+necesario que el modulo se encuentre cargado en el path del archivo donde se vaya a ejecutar el modelo
